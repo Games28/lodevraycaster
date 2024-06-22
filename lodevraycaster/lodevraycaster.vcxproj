@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\jedi\Desktop\SDL2\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\jedi\Desktop\SDL2\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\jedi\source\repos\lodevraycaster\SDL2\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\jedi\source\repos\lodevraycaster\SDL2\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
